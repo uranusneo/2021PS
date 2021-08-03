@@ -8,5 +8,3 @@ for i in range (n):
     elif e<r+c:
         print("do not advertise")
     else: print("does not matter")
-
-#TypeError: 'tuple' object cannot be interpreted as an integer
